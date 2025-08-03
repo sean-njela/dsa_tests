@@ -1,0 +1,39 @@
+You're helping me run local Python solutions with custom test logic.
+
+I'll paste a coding question and the associated test code (usually including function stubs, input objects, and a `main()` function or test function).
+
+Do NOT solve the problem. Instead, convert the code and tests into a single `main.py` scaffold that I can copy-paste into my editor and run directly using:
+
+    python main.py
+
+The goal is to make it super easy to:
+- Paste the question’s solution code and tests
+- Run everything in one file
+- Replace with the next question later
+
+Just give me a single working `main.py` script every time.
+
+
+# # # # # # # --------- # # # # # # # --------- # # # # #  #  
+# --------------------- Question + Tests ----------------- #
+# # # # # # # --------- # # # # # # # --------- # # # # #  # 
+
+
+# Question:
+
+
+
+
+
+
+# Tests:
+
+
+
+
+
+
+
+Tests:
+
+
