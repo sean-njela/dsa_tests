@@ -55,7 +55,7 @@
   <img src="assets/screenshot2.png" alt="screenshot2" />
 </div> -->
 
-[▶ Watch a short demo](assets/demo-video-small.mp4)
+[▶ Watch a short demo](https://github.com/user-attachments/assets/b78f6d36-7e09-4a1d-acfa-a3584bc6a5d6)
 
 ---
 
